@@ -1,0 +1,5 @@
+# extracted from your own copy of the game, never commit
+data/
+node_modules/
+__pycache__/
+*.apworld
